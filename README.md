@@ -1,21 +1,85 @@
-# PosTech-DataAnalytics
+# 🎓 Pós-Tech Data Analytics — Estudos e Práticas  
+### Exercícios, anotações e mini-projetos desenvolvidos ao longo da pós-graduação
 
-Repositório de atividades realizadas durante a Pós Tech de Data Analytics da FIAP.
+Este repositório reúne **conteúdos, práticas, exercícios e pequenos projetos** realizados durante a Pós-Tech em Data Analytics.  
+O objetivo é centralizar materiais de estudo, registrar evolução técnica e documentar aprendizados em áreas como Python, SQL, Estatística, Machine Learning e Business Intelligence.
 
-## Análise de Vinhos Tintos Portugueses
-Análise da base de dados 'winequality-red.csv', com foco nos dados de acidez volátil, teor acoólico e qualidade
+---
 
-## Análise do IDHM 2010
-Análise dos dados por estado e região do Índice de Desenvolvimento Humano Municipal de 2010 e seus subíndices, usando o arquivo 'IDH_2010.xls'.
+## 🚀 Objetivo do Repositório
 
-## Modelo de previsão de preço de carros
-Análise e construção de modelo de regressão para prever preços de carros usando a base 'cars.csv'.
+- Consolidar exercícios e práticas realizadas ao longo da pós  
+- Registrar evolução técnica em Data Analytics  
+- Organizar conteúdos por módulo/tema  
+- Servir como referência pessoal para estudos futuros  
+- Demonstrar consistência e profundidade no aprendizado  
 
-## Modelo para prever saída de empregados
-Análise e construção de modelo de classificação para prever saída de empregados usando a base 'HR_Abandono.csv'.
+---
 
-## Os vinhos brasileiros no mercado internacional
-Relatório de análise de daddos da Embrapa sobre vitivinicultura no estado do Rio Grande do Sul. Dados dísponiveis no site da [Embrapa](http://vitibrasil.cnpuv.embrapa.br/)
+## 🧠 Conteúdos Incluídos
 
-## Polinômio Cúbico por MMQ
-Construção de fórmula e gráfico para achar um dado poliônimo cúbico usando o Método de Mínimos Quadrados
+### **📌 Python para Análise de Dados**
+- Manipulação de dados com Pandas  
+- Visualização com Matplotlib e Seaborn  
+- Limpeza e transformação de datasets  
+- Scripts utilitários e boas práticas  
+
+### **📌 SQL**
+- Consultas básicas e avançadas  
+- Joins, agregações e subqueries  
+- Criação de tabelas e modelagem simples  
+- Exercícios de bancos relacionais  
+
+### **📌 Estatística Aplicada**
+- Medidas descritivas  
+- Distribuições  
+- Testes de hipótese  
+- Probabilidade  
+
+### **📌 Machine Learning (Introdução)**
+- Regressão  
+- Classificação  
+- Pré-processamento  
+- Avaliação de modelos  
+
+### **📌 Business Intelligence**
+- Dashboards simples  
+- KPIs  
+- Power BI / Excel (dependendo do módulo)  
+
+---
+
+## 📈 Exemplos de Conteúdos
+
+Você pode incluir:
+
+- Notebooks Jupyter  
+- Scripts Python  
+- Arquivos SQL  
+- PDFs de anotações  
+- Dashboards simples  
+- Mini-projetos desenvolvidos durante a pós  
+
+---
+
+## 🧠 Aprendizados Principais
+
+Alguns exemplos que você pode adaptar:
+
+- Consolidação de fundamentos de análise de dados  
+- Melhoria na escrita de código limpo e organizado  
+- Entendimento de estatística aplicada ao mundo real  
+- Capacidade de construir modelos simples de ML  
+- Desenvolvimento de dashboards orientados a KPIs  
+- Prática contínua de resolução de problemas  
+
+---
+
+## 📬 Contato
+
+**LinkedIn:** https://linkedin.com/in/renancostaviana  
+**E-mail:** renan.cv@outlook.com.br  
+
+---
+
+### ✨ *Repositório criado para documentar minha jornada de aprendizado em Data Analytics.*
