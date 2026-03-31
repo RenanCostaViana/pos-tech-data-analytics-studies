@@ -16,61 +16,45 @@ O objetivo é centralizar materiais de estudo, registrar evolução técnica e d
 
 ---
 
-## 🧠 Conteúdos Incluídos
+## 🧠 Skills
 
 ### **📌 Python para Análise de Dados**
 - Manipulação de dados com Pandas  
-- Visualização com Matplotlib e Seaborn  
 - Limpeza e transformação de datasets  
-- Scripts utilitários e boas práticas  
+- Boas práticas  
 
-### **📌 SQL**
-- Consultas básicas e avançadas  
-- Joins, agregações e subqueries  
-- Criação de tabelas e modelagem simples  
-- Exercícios de bancos relacionais  
-
-### **📌 Estatística Aplicada**
+### **📌 Estatística**
 - Medidas descritivas  
 - Distribuições  
-- Testes de hipótese  
 - Probabilidade  
-
-### **📌 Machine Learning (Introdução)**
-- Regressão  
-- Classificação  
-- Pré-processamento  
-- Avaliação de modelos  
+- Álgebra Linear 
 
 ### **📌 Business Intelligence**
-- Dashboards simples  
-- KPIs  
-- Power BI / Excel (dependendo do módulo)  
+- Dashboards / Relatórios  
+- Visualização de Dados
+- Power BI / Excel
 
 ---
 
-## 📈 Exemplos de Conteúdos
+## 📈 Conteúdos
 
-Você pode incluir:
+### Brazilian Wine on the International Market
+Análise da participação do vinho brazileiro no mercado internacional, tanto em importações quanto em exportações, corrigindo por inflação e convertido do dólar americano.
 
-- Notebooks Jupyter  
-- Scripts Python  
-- Arquivos SQL  
-- PDFs de anotações  
-- Dashboards simples  
-- Mini-projetos desenvolvidos durante a pós  
+### 2010's MHDI Analysis
+Análise dos indicadores do IDH Municipal do Brasil de 2010, com visualizações e insights.
+
+### LS Cubic Polynomial
+Criação de um algoritmo para cálculo de um polinômio cubico usando MMQ.
 
 ---
 
 ## 🧠 Aprendizados Principais
 
-Alguns exemplos que você pode adaptar:
-
 - Consolidação de fundamentos de análise de dados  
 - Melhoria na escrita de código limpo e organizado  
 - Entendimento de estatística aplicada ao mundo real  
-- Capacidade de construir modelos simples de ML  
-- Desenvolvimento de dashboards orientados a KPIs  
+- Desenvolvimento de dashboards e relatórios  
 - Prática contínua de resolução de problemas  
 
 ---
